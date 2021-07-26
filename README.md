@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahesh-Chandran
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning Data Analytics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects so that I can get hands on experience working with the tool
 - 📫 How to reach me mahi77here@gmail.com
